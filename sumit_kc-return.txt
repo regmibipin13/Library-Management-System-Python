@@ -1,0 +1,3 @@
+Name:sumit kc, Book:Harry Potter, Cost:$2, Fined Amount:$0, Date and Time:2021-09-09/22:37:56.756663
+Name:sumit kc, Book:Start With Why, Cost:$1.5, Fined Amount:$0, Date and Time:2021-09-09/22:38:06.320274
+Name:sumit kc, Book:Programming With Python, Cost:$1.555, Fined Amount:$42, Date and Time:2021-09-09/22:38:21.692155
