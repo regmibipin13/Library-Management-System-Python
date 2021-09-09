@@ -1,3 +1,0 @@
-Name:sumit kc, Book:Harry Potter, Cost:$2, Date and Time:2021-09-09/22:35:23.546870
-Name:sumit kc, Book:Start With Why, Cost:$1.5, Date and Time:2021-09-09/22:35:28.008242
-Name:sumit kc, Book:Programming With Python, Cost:$1.55, Date and Time:2021-08-09/22:35:55.722987
